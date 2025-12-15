@@ -17,13 +17,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 
@@ -41,7 +37,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 |-----------------------|-------------------------------------|--------------------------|
 | **SENAI+** | [🔗 Ver online] (https://github.com/GuilhermeDias29/ProjetoSENAI-.git) | HTML / CSS / JS / NODEJS / SQL LITE          |
 | **Indústria Quimica** | [🔗 Ver online] (https://github.com/GuilhermeDias29/IndustriaQuimica.git) | Bootstrap         |
-| **Projetos com Bootstrap** | [🔗 Ver online] (https://github.com/GuilhermeDias29/ProjetoBootstrap2.git) | Bootstrap         |
+| **Projetos com Bootstrap** | [🔗 Ver online] (https://github.com/GuilhermeDias29/ProjetoBootstrap2.git) (https://github.com/GuilhermeDias29/ProjetoBootstrap.git)| Bootstrap         |
 | **Flag quest** | [🔗 Ver online] (https://github.com/GuilhermeDias29/FlagQuest) | HTML / CSS / JS          |
 
 
