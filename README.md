@@ -39,6 +39,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
+| **SENAI+** | [🔗 Ver online] (https://github.com/GuilhermeDias29/ProjetoSENAI-.git) | HTML / CSS / JS / NODEJS / SQL LITE          |
+| **Indústria Quimica** | [🔗 Ver online] (https://github.com/GuilhermeDias29/IndustriaQuimica.git) | Bootstrap         |
+| **Projetos com Bootstrap** | [🔗 Ver online] (https://github.com/GuilhermeDias29/ProjetoBootstrap2.git) | Bootstrap         |
 | **Flag quest** | [🔗 Ver online] (https://github.com/GuilhermeDias29/FlagQuest) | HTML / CSS / JS          |
 
 
