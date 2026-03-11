@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Guilherme Dias
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End.
+Sou Técnico de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Front-End.
 
 ---
 
@@ -45,7 +45,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no Senai e Sesi;
 - 💻 Estou aprendendo Java;
 - 🎯 Meu objetivo é conseguir meu primeiro emprego na área da tecnologia da informação;
 - 📚 Gosto de aprender sobre tecnologia, musica e atualidades;
